@@ -17,5 +17,5 @@ variable "ami_id" {
 variable "bucketname" {
   description = "The name of the S3 bucket to create"
   type        = string
-  default     = "swamys3-bucket-project-1047"
+  default     = "swamys3-bucket-project-1047-bucket"
 }
